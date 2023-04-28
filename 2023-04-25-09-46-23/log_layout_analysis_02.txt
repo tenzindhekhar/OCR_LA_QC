@@ -1,4 +1,0 @@
----- layout_analysis_02 ---- 
-#### Missing Annotations ####
-#### Failed Downloads ####
-#### Duplicte Entry ####
