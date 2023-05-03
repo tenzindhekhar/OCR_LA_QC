@@ -63,3 +63,5 @@
 *.max
 
 __pycache__/
+
+.env

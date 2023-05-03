@@ -1,0 +1,12 @@
+---- layout_analysis_02 ---- 
+#### Missing Annotations ####
+{"id":"I1KG128240075.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/49/W4CZ15298/images-web/W4CZ15298-I1KG12824/I1KG128240075.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=W%2Bvj%2BzGv8xRVS4MyJnjH2ZeCkD0%3D&Expires=1713506246","_input_hash":-904721378,"_task_hash":1813652334,"_view_id":"image_manual","width":2000,"height":421,"answer":"accept","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+{"id":"I1KG127970137.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/ee/W1KG12667/images-web/W1KG12667-I1KG12797/I1KG127970137.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=nkHC8ohN6IOqFQmOMtAXNYetuwY%3D&Expires=1713522955","_input_hash":-291499434,"_task_hash":824372617,"_view_id":"image_manual","answer":"accept","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+{"id":"I1KG61020093.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/5f/W4CZ1687/images-web/W4CZ1687-I1KG6102/I1KG61020093.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=y%2FWO3vUXhRa3YWJQaGz6iKoUeMA%3D&Expires=1713529191","_input_hash":2034045891,"_task_hash":-648816470,"_view_id":"image_manual","width":2000,"height":290,"answer":"ignore"}
+
+{"id":"I1KG61020113.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/5f/W4CZ1687/images-web/W4CZ1687-I1KG6102/I1KG61020113.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=uuIK%2BikhubJLmTLi2PXPa6MIZl0%3D&Expires=1713529191","_input_hash":1915650259,"_task_hash":-725843544,"_view_id":"image_manual","width":2000,"height":290,"answer":"ignore"}
+
+#### Failed Downloads ####
+#### Duplicte Entry ####

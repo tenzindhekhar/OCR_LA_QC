@@ -3,11 +3,12 @@ import json
 from glob import glob
 from tqdm import tqdm
 from xml.dom import minidom
-from natsort import natsorted
+from typing import List, Tuple
+# from natsort import natsorted
 import xml.etree.ElementTree as etree
 
 
-def read_jsonl(jsonl_file: str) -> list[str]:
+def read_jsonl(jsonl_file: str) -> List[str]:
     f = open(jsonl_file, "r")
     json_info = f.readlines()
 
@@ -126,7 +127,7 @@ def build_xml_file(json_record: str, xml_out: str) -> None:
                 f.write(prettyxml)
 
 
-def generate_pagexml(json_file: str) -> list[str]:
+def generate_pagexml(json_file: str) -> List[str]:
     json_file_n = os.path.basename(json_file).split(".")[0]
     json_records = read_jsonl(json_file)
 
