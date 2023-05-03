@@ -121,7 +121,7 @@ def write_log(
 
 if __name__ == "__main__":
     # change this path as needed
-    dataset_path = "2023-04-25-09-46-23"
+    dataset_path = "2023-04-21-07-04-09"
     json_files = glob(f"{dataset_path}/*.jsonl")
 
     for json_f in json_files:

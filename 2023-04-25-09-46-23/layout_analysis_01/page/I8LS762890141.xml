@@ -3,21 +3,21 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-09-06T12:00:26.622+02:00</Created>
-        <LastChange>2023-05-02T09:11:49.839+05:30</LastChange>
+        <LastChange>2023-05-03T10:16:49.221+02:00</LastChange>
         <TranskribusMetadata docId="-1" pageId="-1" pageNr="292" status="DONE"/>
     </Metadata>
-    <Page imageFilename="I8LS762890141" imageWidth="2000" imageHeight="336">
+    <Page imageFilename="I8LS762890141.jpg" imageWidth="2000" imageHeight="336">
         <ReadingOrder>
-            <OrderedGroup id="ro_1682998909849" caption="Regions reading order">
+            <OrderedGroup id="ro_1683101809226" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="region_main"/>
                 <RegionRefIndexed index="1" regionRef="region_main"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion id="region_main" custom="readingOrder {index:0;}">
-            <Coords points="102,44 542,32 1103,22 1695,13 1831,13 1839,248 1639,254 968,273 718,270 110,280"/>
+            <Coords points="102,44 542,32 1103,22 1695,13 1831,13 1839,248 1639,254 968,273 718,270 108,281"/>
         </TextRegion>
         <TextRegion id="region_main" custom="readingOrder {index:1;} structure {type:marginalia;}">
-            <Coords points="40,59 40,268 75,270 75,61"/>
+            <Coords points="49,67 51,262 79,261 75,69"/>
         </TextRegion>
     </Page>
 </PcGts>
