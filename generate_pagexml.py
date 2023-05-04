@@ -127,7 +127,7 @@ def build_xml_file(json_record: str, xml_out: str) -> None:
                 f.write(prettyxml)
 
 
-def generate_pagexml(json_file: str) -> List[str]:
+def generate_pagexml(json_file: str, dataset_path: str) -> List[str]:
     json_file_n = os.path.basename(json_file).split(".")[0]
     json_records = read_jsonl(json_file)
 
@@ -161,7 +161,7 @@ if __name__ == "__main__":
 
     for json_f in json_files:
         json_f_name = os.path.basename(json_f).split(".")[0]
-        skipped_entries = generate_pagexml(json_f)
+        skipped_entries = generate_pagexml(json_f, dataset_path)
 
         log_out = f"{dataset_path}/{json_f_name}_xml_log.txt"
 
