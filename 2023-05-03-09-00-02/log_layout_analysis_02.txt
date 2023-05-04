@@ -1,0 +1,8 @@
+---- layout_analysis_02 ---- 
+#### Missing Annotations ####
+{"id":"I4CZ656380114.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/37/W4CZ65025/images-web/W4CZ65025-I4CZ65638/I4CZ656380114.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=OfrYneVfVpXsDZfGgLjb6LM33gQ%3D&Expires=1714544645","_input_hash":-290354307,"_task_hash":829197414,"_view_id":"image_manual","width":2000,"height":439,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+{"id":"I3CN76390298.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/30/W3CN7534/images-web/W3CN7534-I3CN7639/I3CN76390298.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=wDbw7bTeTMJUyvtVI%2FPKBZyGuHI%3D&Expires=1714565174","_input_hash":-99140125,"_task_hash":-1251919462,"_view_id":"image_manual","width":2000,"height":380,"answer":"ignore","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+#### Failed Downloads ####
+#### Duplicte Entry ####

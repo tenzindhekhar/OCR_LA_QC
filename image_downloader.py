@@ -122,9 +122,9 @@ def write_log(
 
 if __name__ == "__main__":
     # change this path as needed
-    dataset_path = "2023-04-21-07-04-09"
+    dataset_path = "2023-05-03-09-00-02"
     json_files = glob(f"{dataset_path}/*.jsonl")
 
     for json_f in json_files:
-        failed_dls, duplicates, missing_anotations = get_images(json_f)
+        failed_dls, duplicates, missing_anotations = get_images(json_f, generate_xml=False)
         write_log(json_f, failed_dls, duplicates, missing_anotations)
