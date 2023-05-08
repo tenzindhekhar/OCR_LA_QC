@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-09-06T12:00:26.622+02:00</Created>
-        <LastChange>2023-05-08T10:51:05.489+05:30</LastChange>
+        <LastChange>2023-05-08T15:45:32.545+05:30</LastChange>
         <TranskribusMetadata docId="-1" pageId="-1" pageNr="6" status="DONE"/>
     </Metadata>
     <Page imageFilename="23400571.jpg" imageWidth="2000" imageHeight="339">
         <ReadingOrder>
-            <OrderedGroup id="ro_1683523265490" caption="Regions reading order">
+            <OrderedGroup id="ro_1683540932547" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="region_main"/>
                 <RegionRefIndexed index="1" regionRef="region_main"/>
                 <RegionRefIndexed index="2" regionRef="region_main"/>
