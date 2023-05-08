@@ -2228,7 +2228,7 @@
                     <pageNr>56</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/24640420.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456290</timestamp>
@@ -2708,7 +2708,7 @@
                     <pageNr>68</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/24660144.xml</url>
-                    <status>NEW</status>
+                    <status>DONE</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456335</timestamp>
@@ -4228,7 +4228,7 @@
                     <pageNr>106</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/29060009.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456455</timestamp>
@@ -5668,7 +5668,7 @@
                     <pageNr>142</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/34830462.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456580</timestamp>
@@ -5868,7 +5868,7 @@
                     <pageNr>147</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/34830889.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456595</timestamp>
@@ -6508,7 +6508,7 @@
                     <pageNr>163</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/34850919.xml</url>
-                    <status>NEW</status>
+                    <status>DONE</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456641</timestamp>
@@ -6628,7 +6628,7 @@
                     <pageNr>166</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/34851118.xml</url>
-                    <status>NEW</status>
+                    <status>DONE</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456649</timestamp>
@@ -8588,7 +8588,7 @@
                     <pageNr>215</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/52810050.xml</url>
-                    <status>IN_PROGRESS</status>
+                    <status>DONE</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456766</timestamp>
@@ -9068,7 +9068,7 @@
                     <pageNr>227</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/52810182.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456798</timestamp>
@@ -9108,7 +9108,7 @@
                     <pageNr>228</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/52810183.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456801</timestamp>
@@ -9828,7 +9828,7 @@
                     <pageNr>246</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/52810501.xml</url>
-                    <status>NEW</status>
+                    <status>DONE</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263456842</timestamp>
@@ -11508,7 +11508,7 @@
                     <pageNr>288</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I0TTBBC0022_0010146.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457424</timestamp>
@@ -13508,7 +13508,7 @@
                     <pageNr>338</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I1KG27510984.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457572</timestamp>
@@ -14068,7 +14068,7 @@
                     <pageNr>352</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I1KG27520985.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457610</timestamp>
@@ -14148,7 +14148,7 @@
                     <pageNr>354</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I1KG27521268.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457613</timestamp>
@@ -15588,7 +15588,7 @@
                     <pageNr>390</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I1KG89910662.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457698</timestamp>
@@ -15868,7 +15868,7 @@
                     <pageNr>397</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I1KG89930010.xml</url>
-                    <status>NEW</status>
+                    <status>DONE</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457715</timestamp>
@@ -16068,7 +16068,7 @@
                     <pageNr>402</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I1KG89930369.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457726</timestamp>
@@ -16508,7 +16508,7 @@
                     <pageNr>413</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I1PD1071450445.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457746</timestamp>
@@ -17388,7 +17388,7 @@
                     <pageNr>435</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I1PD1071500029.xml</url>
-                    <status>NEW</status>
+                    <status>DONE</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457793</timestamp>
@@ -17748,7 +17748,7 @@
                     <pageNr>444</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I1PD1071510502.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457811</timestamp>
@@ -19468,7 +19468,7 @@
                     <pageNr>487</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I3CN35470457.xml</url>
-                    <status>NEW</status>
+                    <status>DONE</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457901</timestamp>
@@ -20548,7 +20548,7 @@
                     <pageNr>514</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I4CZ623800267.xml</url>
-                    <status>NEW</status>
+                    <status>DONE</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457954</timestamp>
@@ -20948,7 +20948,7 @@
                     <pageNr>524</pageNr>
                     <localFolder>/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01</localFolder>
                     <url>file:/home/whitetiger/Documents/OCR_LA_QC/2023-05-01-14-42-01/layout_analysis_01/page/I4CZ623820161.xml</url>
-                    <status>DONE</status>
+                    <status>IN_PROGRESS</status>
                     <userName>LocalDocReader</userName>
                     <userId>0</userId>
                     <timestamp>1683263457980</timestamp>
