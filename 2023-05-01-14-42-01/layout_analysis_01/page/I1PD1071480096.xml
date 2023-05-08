@@ -3,21 +3,21 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-09-06T12:00:26.622+02:00</Created>
-        <LastChange>2023-05-06T12:04:08.157+05:30</LastChange>
+        <LastChange>2023-05-08T13:49:04.849+05:30</LastChange>
         <TranskribusMetadata docId="-1" pageId="-1" pageNr="425" status="DONE"/>
     </Metadata>
     <Page imageFilename="I1PD1071480096" imageWidth="462" imageHeight="700">
         <ReadingOrder>
-            <OrderedGroup id="ro_1683354848158" caption="Regions reading order">
+            <OrderedGroup id="ro_1683533944850" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="region_1683354824770_1483"/>
                 <RegionRefIndexed index="1" regionRef="region_1683354820272_1480"/>
                 <RegionRefIndexed index="2" regionRef="region_main"/>
             </OrderedGroup>
         </ReadingOrder>
-        <TextRegion type="marginalia" id="region_1683354824770_1483" custom="readingOrder {index:0;} structure {type:marginalia;}">
+        <TextRegion type="footer" id="region_1683354824770_1483" custom="readingOrder {index:0;} structure {type:footer;}">
             <Coords points="51,640 72,640 72,658 51,658"/>
         </TextRegion>
-        <TextRegion id="region_1683354820272_1480" custom="readingOrder {index:1;}">
+        <TextRegion type="header" id="region_1683354820272_1480" custom="readingOrder {index:1;} structure {type:header;}">
             <Coords points="145,71 321,71 321,91 145,88"/>
         </TextRegion>
         <TextRegion id="region_main" custom="readingOrder {index:2;}">
