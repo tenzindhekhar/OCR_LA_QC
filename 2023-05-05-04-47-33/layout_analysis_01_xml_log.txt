@@ -1,0 +1,6 @@
+The following entries were skipped during PageXML generation:
+{"id":"I2PD160021913.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/c7/W1PD95727/images-web/W1PD95727-I2PD16002/I2PD160021913.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=L7Q4NRmYU%2FqLsc1kFK%2ByKLtFJSQ%3D&Expires=1714718086","_input_hash":926520825,"_task_hash":2133521174,"_view_id":"image_manual","width":473,"height":700,"answer":"reject","_annotator_id":"layout_analysis_01-wangmo","_session_id":"layout_analysis_01-wangmo"}
+
+The following entries were skipped during PageXML generation:
+{"id":"I2PD160021914.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/c7/W1PD95727/images-web/W1PD95727-I2PD16002/I2PD160021914.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=%2Bj9yKfRTClIPQPukx3JZA7fPRIQ%3D&Expires=1714718086","_input_hash":-1609784003,"_task_hash":-91035825,"_view_id":"image_manual","width":463,"height":700,"answer":"reject","_annotator_id":"layout_analysis_01-wangmo","_session_id":"layout_analysis_01-wangmo"}
+
