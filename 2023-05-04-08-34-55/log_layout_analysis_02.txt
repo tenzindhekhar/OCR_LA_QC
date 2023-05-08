@@ -1,0 +1,16 @@
+---- layout_analysis_02 ---- 
+#### Missing Annotations ####
+{"id":"I1KG22450413.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/d2/W22273/images-web/W22273-I1KG2245/I1KG22450413.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=cm%2FtC2QuW2G6eo6bIP1dDF9Cdng%3D&Expires=1714703098","_input_hash":-568131132,"_task_hash":-1309423333,"_view_id":"image_manual","width":2000,"height":364,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+{"id":"I1KG22490124.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/d2/W22273/images-web/W22273-I1KG2249/I1KG22490124.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=c3cI5FhjrmiNPEYZmm32cQcvshw%3D&Expires=1714703443","_input_hash":80656681,"_task_hash":-1156683107,"_view_id":"image_manual","answer":"accept","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+{"id":"43900036.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/c0/W26078/images-web/W26078-4390/43900036.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=5rjibXm601Z%2BAhyf43xNGJbHSjA%3D&Expires=1714706495","_input_hash":1142420885,"_task_hash":730046195,"_view_id":"image_manual","width":438,"height":700,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+{"id":"43910037.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/c0/W26078/images-web/W26078-4391/43910037.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=LGcT%2BZ9aJBCFSNzhxA5zmFZcGVI%3D&Expires=1714706588","_input_hash":-553839300,"_task_hash":58133427,"_view_id":"image_manual","width":438,"height":700,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+{"id":"43960029.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/c0/W26078/images-web/W26078-4396/43960029.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=J%2FEaFRA5J8sNqVsJ6sESztzVcBk%3D&Expires=1714706672","_input_hash":-887891116,"_task_hash":1424736660,"_view_id":"image_manual","width":459,"height":700,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+{"id":"44180419.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/c0/W26078/images-web/W26078-4418/44180419.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=F5zemwhitW9VM3YhVP6Z5wnyQcU%3D&Expires=1714708860","_input_hash":-811745246,"_task_hash":700413308,"_view_id":"image_manual","width":460,"height":700,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+#### Failed Downloads ####
+#### Duplicte Entry ####
