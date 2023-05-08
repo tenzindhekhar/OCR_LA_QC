@@ -5,6 +5,7 @@ import requests
 from tqdm import tqdm
 from glob import glob
 from pathlib import Path
+from typing import List, Tuple
 from generate_pagexml import build_xml_file
 
 
@@ -13,13 +14,13 @@ def create_dir(dir_name: str) -> None:
         os.makedirs(dir_name)
 
 
-def read_jsonl(jsonl_file: str) -> list[str]:
+def read_jsonl(jsonl_file: str) -> List[str]:
     f = open(jsonl_file, "r")
     json_info = f.readlines()
     return json_info
 
 
-def filter_missing_annotations(json_records: list[str]) -> tuple[list[str], list[str]]:
+def filter_missing_annotations(json_records: List[str]) -> Tuple[List[str], List[str]]:
     valid_annotations = []
     missing_annotations = []
 
@@ -32,7 +33,7 @@ def filter_missing_annotations(json_records: list[str]) -> tuple[list[str], list
     return valid_annotations, missing_annotations
 
 
-def remove_duplicates(json_records: list[str]) -> tuple[list[str], list[str]]:
+def remove_duplicates(json_records: List[str]) -> Tuple[List[str], List[str]]:
     img_names = []
     valid_records = []
     duplicates = []
@@ -64,7 +65,7 @@ def download_image(json_record, out_dir) -> None:
                 shutil.copyfileobj(res.raw, f)
 
 
-def get_images(json_file: str, generate_xml: bool = True) -> tuple[list, list]:
+def get_images(json_file: str, generate_xml: bool = True) -> Tuple[List, List]:
     out_dir_name = os.path.basename(json_file).split(".")[0]
     img_out_dir = os.path.join(dataset_path, out_dir_name)
 
@@ -96,7 +97,7 @@ def get_images(json_file: str, generate_xml: bool = True) -> tuple[list, list]:
 
 
 def write_log(
-    json_file: str, failed_dls: list, duplicates: list, missing_annotations: str
+    json_file: str, failed_dls: List, duplicates: List, missing_annotations: str
 ) -> None:
     json_fname = os.path.basename(json_file).split(".")[0]
     log_out = f"{dataset_path}/log_{json_fname}.txt"
@@ -121,9 +122,9 @@ def write_log(
 
 if __name__ == "__main__":
     # change this path as needed
-    dataset_path = "2023-04-21-07-04-09"
+    dataset_path = "2023-05-05-04-47-33"
     json_files = glob(f"{dataset_path}/*.jsonl")
 
     for json_f in json_files:
-        failed_dls, duplicates, missing_anotations = get_images(json_f)
+        failed_dls, duplicates, missing_anotations = get_images(json_f, generate_xml=False)
         write_log(json_f, failed_dls, duplicates, missing_anotations)

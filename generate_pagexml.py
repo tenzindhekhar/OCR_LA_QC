@@ -3,11 +3,12 @@ import json
 from glob import glob
 from tqdm import tqdm
 from xml.dom import minidom
-from natsort import natsorted
+from typing import List, Tuple
+# from natsort import natsorted
 import xml.etree.ElementTree as etree
 
 
-def read_jsonl(jsonl_file: str) -> list[str]:
+def read_jsonl(jsonl_file: str) -> List[str]:
     f = open(jsonl_file, "r")
     json_info = f.readlines()
 
@@ -126,7 +127,7 @@ def build_xml_file(json_record: str, xml_out: str) -> None:
                 f.write(prettyxml)
 
 
-def generate_pagexml(json_file: str) -> list[str]:
+def generate_pagexml(json_file: str, dataset_path: str) -> List[str]:
     json_file_n = os.path.basename(json_file).split(".")[0]
     json_records = read_jsonl(json_file)
 
@@ -155,12 +156,12 @@ def generate_pagexml(json_file: str) -> list[str]:
 
 if __name__ == "__main__":
     # change this path as needed
-    dataset_path = "2023-04-21-07-04-09"
+    dataset_path = "2023-05-04-08-34-55"
     json_files = glob(f"{dataset_path}/*.jsonl")
 
     for json_f in json_files:
         json_f_name = os.path.basename(json_f).split(".")[0]
-        skipped_entries = generate_pagexml(json_f)
+        skipped_entries = generate_pagexml(json_f, dataset_path)
 
         log_out = f"{dataset_path}/{json_f_name}_xml_log.txt"
 

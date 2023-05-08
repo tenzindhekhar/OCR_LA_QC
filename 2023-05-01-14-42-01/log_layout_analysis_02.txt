@@ -1,0 +1,10 @@
+---- layout_analysis_02 ---- 
+#### Missing Annotations ####
+{"id":"I8LS178670413.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/60/W8LS17841/images-web/W8LS17841-I8LS17867/I8LS178670413.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=FuhHb5TBKqQlHGO4yQ%2F0FAW9QuI%3D&Expires=1714295515","_input_hash":1699175781,"_task_hash":-399354701,"_view_id":"image_manual","width":2000,"height":354,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+{"id":"I8LS178690613.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/60/W8LS17841/images-web/W8LS17841-I8LS17869/I8LS178690613.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=F0IpH861cI05K1T1zOxCFdZUX6Y%3D&Expires=1714438714","_input_hash":1885631540,"_task_hash":-1817773969,"_view_id":"image_manual","width":2000,"height":354,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+{"id":"I3CN31640579.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/9c/W3CN3026/images-web/W3CN3026-I3CN3164/I3CN31640579.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=Nelx0G3Naj0V2mbMhPZeeH5ERSg%3D&Expires=1714449844","_input_hash":1545197842,"_task_hash":1902609084,"_view_id":"image_manual","width":2000,"height":337,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+#### Failed Downloads ####
+#### Duplicte Entry ####

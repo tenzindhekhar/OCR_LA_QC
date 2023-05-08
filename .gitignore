@@ -62,4 +62,9 @@
 *.3dm
 *.max
 
+# Jupyter Notebooks
+*.ipynb
+
 __pycache__/
+
+.env
