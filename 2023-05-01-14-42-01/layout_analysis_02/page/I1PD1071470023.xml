@@ -2,8 +2,13 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
+<<<<<<< HEAD
+        <Created>2023-05-05T10:13:06.497+05:30</Created>
+        <LastChange>2023-05-05T10:13:06.497+05:30</LastChange>
+=======
         <Created>2023-05-05T11:17:06.128+05:30</Created>
         <LastChange>2023-05-05T11:17:06.128+05:30</LastChange>
+>>>>>>> 9aef5091fb98528ed55acf8a49cda3c895bddca2
     </Metadata>
     <Page imageFilename="I1PD1071470023.jpg" imageWidth="460" imageHeight="700"/>
 </PcGts>
