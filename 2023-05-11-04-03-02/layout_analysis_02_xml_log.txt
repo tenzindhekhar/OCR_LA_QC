@@ -1,0 +1,6 @@
+The following entries were skipped during PageXML generation:
+{"id":"18870531.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/6a/W23446/images-web/W23446-1887/18870531.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=kxP8uWXRXburqbExRqgtF%2Fdtz3E%3D&Expires=1715163138","_input_hash":-1333372071,"_task_hash":597196505,"_view_id":"image_manual","width":2000,"height":398,"answer":"ignore","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+The following entries were skipped during PageXML generation:
+{"id":"20480507.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/f7/W22247/images-web/W22247-2048/20480507.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=Mom6RElN5jbrkBoJfdF4MEUToWU%3D&Expires=1715250407","_input_hash":1707419108,"_task_hash":243341844,"_view_id":"image_manual","width":2000,"height":462,"answer":"ignore","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
